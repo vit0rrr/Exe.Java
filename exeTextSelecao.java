@@ -12,11 +12,9 @@ public class Main {
      int C =sc.nextInt();
      int D =sc.nextInt();
      
-     if (B > C && D > A && C + D > A + B && C > 0 && D > 0 && A % 2 == 0){
-         
+     if (B > C && D > A && C + D > A + B && C > 0 && D > 0 && A % 2 == 0){        
         System.out.printf("Valores aceitos");
-     }else {       
-     
+     }else {           
         System.out.printf("Valores nao aceitos");
 
      }

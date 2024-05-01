@@ -21,7 +21,7 @@ public class Main {
        	}       
        System.out.println(maiorValor);
        System.out.println(posicaoMaiorValor);
-       sc.close();       
+       sc.close();          
   }        
 }
  
